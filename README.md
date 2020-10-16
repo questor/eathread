@@ -1,3 +1,6 @@
+
+# PLEASE NOTE: THIS IS A HEAVILY MODIFIED VERSION BASE ON THE ORIGINAL ONE!
+
 # EAThread
 
 EAThread implements a unified cross-platform interface for multithreaded programming on various platforms.
